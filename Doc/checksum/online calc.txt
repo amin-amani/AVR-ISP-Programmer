@@ -1,0 +1,4 @@
+i checked this line from hex file and it was corerect
+
+:10002000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE0
+https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator/
